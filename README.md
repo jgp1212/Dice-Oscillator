@@ -27,7 +27,8 @@ BOM:
 -  6 x 10K Potentiometers
 -  6 x 4.7uF Capacitors (can be altered for different audio)
 -  6 x 2 pin jumpers. OR 6 toggle switches whch can be wired in place of the jumpers.
-  - ![image](https://user-images.githubusercontent.com/73641501/192804627-9d99886f-799f-4ddb-9f63-97e8c2ec08ac.png)
+
 -  1 x LED
 -  1 x 510Ohm Resistor
 -  1 x 3.5mm mono jack (WQP-PJ301M-12_JACK from Thonkiconn)
+  - ![image](https://user-images.githubusercontent.com/73641501/192804627-9d99886f-799f-4ddb-9f63-97e8c2ec08ac.png)

@@ -17,17 +17,17 @@ Power supply must be center positive, I have blown up several CD40106BE by accid
 
 BOM:
 -  1 x CD40106BE IC
-![image](https://user-images.githubusercontent.com/73641501/192804346-d96a21a2-c40e-4ea9-a860-ef5e4c8d1e94.png)
+  - ![image](https://user-images.githubusercontent.com/73641501/192804346-d96a21a2-c40e-4ea9-a860-ef5e4c8d1e94.png)
 
 -  1 x 2.1mm Power jack OR 1 x 16 pin eurorackstyle header. USE ONLY ONE OPTION WHEN POWERING.
-![image](https://user-images.githubusercontent.com/73641501/192804436-98f8455f-b5ed-4ab0-bdd1-c2d266d4c186.png)
+  - ![image](https://user-images.githubusercontent.com/73641501/192804436-98f8455f-b5ed-4ab0-bdd1-c2d266d4c186.png)
 
 -  7 x 10K Ohm Resistors
 -  1 x 8.2K Ohm Resistor
 -  6 x 10K Potentiometers
 -  6 x 4.7uF Capacitors (can be altered for different audio)
 -  6 x 2 pin jumpers. OR 6 toggle switches whch can be wired in place of the jumpers.
-![image](https://user-images.githubusercontent.com/73641501/192804627-9d99886f-799f-4ddb-9f63-97e8c2ec08ac.png)
+  - ![image](https://user-images.githubusercontent.com/73641501/192804627-9d99886f-799f-4ddb-9f63-97e8c2ec08ac.png)
 -  1 x LED
 -  1 x 510Ohm Resistor
 -  1 x 3.5mm mono jack (WQP-PJ301M-12_JACK from Thonkiconn)

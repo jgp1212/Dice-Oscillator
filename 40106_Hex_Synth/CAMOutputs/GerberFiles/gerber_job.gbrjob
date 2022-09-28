@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-09-16T13:22:18Z",
+        "CreationDate": "2022-08-28T10:18:12Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -17,8 +17,8 @@
         },
         "Owner": "Jiyong Park <jgp1212@gmail.com>",
         "Size": {
-            "X": 92.897,
-            "Y": 49.042
+            "X": 97.897,
+            "Y": 54.661
         }
     }
 }
